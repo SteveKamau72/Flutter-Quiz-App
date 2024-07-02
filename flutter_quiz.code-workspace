@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "flutter_quiz",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../Downloads/assets"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
