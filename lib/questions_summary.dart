@@ -58,7 +58,7 @@ class QuestionsSummary extends StatelessWidget {
                       Text(
                         (data['user_answer'] as String),
                         style: GoogleFonts.lato(
-                            color: Color.fromARGB(255, 220, 107, 245)),
+                            color: const Color.fromARGB(255, 220, 107, 245)),
                       ),
                       Text(
                         (data['correct_answer'] as String),
